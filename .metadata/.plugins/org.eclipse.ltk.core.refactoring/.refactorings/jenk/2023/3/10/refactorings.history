@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;jenk/Processes/jenk/exmpl.bwp&apos; to &apos;jenk.bwp&apos;" description="Rename resource &apos;exmpl.bwp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Processes/jenk/exmpl.bwp" name="jenk.bwp" stamp="1678456207314" updateReferences="true"/>
+</session>

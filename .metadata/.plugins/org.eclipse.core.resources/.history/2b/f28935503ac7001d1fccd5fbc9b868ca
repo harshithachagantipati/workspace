@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config:ProjectConfig xmlns:config="http://www.tibco.com/XPD/projectConfig">
+  <projectDetails id="com.example.some">
+    <globalDestinations/>
+    <edition>bwe</edition>
+  </projectDetails>
+  <config:specialFolders>
+    <config:folder id="_UDIHgMc6Ee2V5Pswvk0phA" kind="com.tibco.amx.zion.schema" location="Schemas"/>
+    <config:folder id="_UDIHgcc6Ee2V5Pswvk0phA" kind="com.tibco.bw.process.folder" location="Processes"/>
+    <config:folder id="_UDRRcMc6Ee2V5Pswvk0phA" kind="bwtf" location="Tests"/>
+    <config:folder id="_UDRRccc6Ee2V5Pswvk0phA" kind="wsdl" location="Service Descriptors"/>
+    <config:folder id="_UDWJ8Mc6Ee2V5Pswvk0phA" kind="com.tibco.amx.zion.resource" location="Resources"/>
+    <config:folder id="_UDWJ8cc6Ee2V5Pswvk0phA" kind="com.tibco.amx.zion.policy" location="Policies"/>
+  </config:specialFolders>
+</config:ProjectConfig>
